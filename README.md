@@ -1,14 +1,23 @@
-# assistente-ia-python
+# Jessy - Assistente IA em Python
 
-Projeto pessoal desenvolvido para estudos de Python, automação e Inteligência Artificial.
+Assistente virtual desenvolvida em Python com foco em automação, reconhecimento de voz e interação inteligente.
 
-## Objetivos
-- Aprender programação prática
-- Desenvolver lógica computacional
-- Criar sistemas automatizados
+## Funcionalidades
+- Reconhecimento de voz
+- Processamento de comandos
+- Memória de aplicações
+- Automação de tarefas
+- Reprodução de áudio
 
-## Tecnologias
+## Tecnologias utilizadas
 - Python
+- Faster Whisper
+- Edge TTS
+- Pydub
+- AsyncIO
+- 
+## Objetivo
+Projeto desenvolvido para aprofundamento em Inteligência Artificial, automação e desenvolvimento de sistemas inteligentes.
 
 ## Status
 Em desenvolvimento
